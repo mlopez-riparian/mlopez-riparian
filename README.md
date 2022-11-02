@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+Search for me on the interwebs as Marny Lopez or go to my personal website
+
+https://marnylopez.com
+
+My GitHub account is @iMrLopez
+
+
+
+
+
 <!--
 **mlopez-riparian/mlopez-riparian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
